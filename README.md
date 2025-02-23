@@ -14,6 +14,7 @@ This is a personally modified version of the **LoRa APRS Tracker firmware**, des
 - ✅ **Green background for callsign display** for better visibility.
 - ✅ **Animated menu** for a more dynamic user experience.
 - ✅ **`Repeaters Info`** Find top 5 nearest repeaters info.
+- ✅ **`ISS Pass`** ISS pass info.
 - ✅ **`Where Am I`** to find the current location using **9M2PJU-4 APRS Bot**.
 
 ---
